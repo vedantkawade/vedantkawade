@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedant Kawade</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="left"> <a href="https://twitter.com/vedant__kawade" target="blank"><img src="https://img.shields.io/twitter/follow/vedant__kawade?logo=twitter&style=for-the-badge" alt="vedant__kawade" /></a> </p>
-
 - 📫 How to reach me **vedantkawadejobs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
